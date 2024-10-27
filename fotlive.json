@@ -1,0 +1,220 @@
+{
+    "data" :{
+        "matches" : [
+            
+            {
+                "league" : "Premier League",
+                "leagueImage" : "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
+                "leagueMatches" : [
+                    {
+    "matchName" : "HelloTest Vs HelloTest",
+    "matchDate" : "Wed, September 25, 1:15 AM",
+    "homeImage" :"https://images.fotmob.com/image_resources/logo/teamlogo/8635_small.png",
+    "awayImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
+    "serverlinks" : [
+        
+	{"server" : "HD",
+	"link" : "https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8",
+	"referer" : "https://www.doomovie-hd.pro/",
+	"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"},
+	
+	{"server" : "Ture2",
+	"link" : "https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8",
+	"referer" : "https://www.doomovie-hd.pro/",
+	"userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"},
+	
+	
+	    {"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""}
+    ],
+    "live" :1
+},
+
+
+{
+    "matchName" : "HelloTest Vs HelloTest",
+    "matchDate" : "Wed, September 25, 1:15 AM",
+    "homeImage" :"https://sta.vnres.co/file/common/20241005/0982b4c29826f54b441c3455e27e9f86.png",
+    "awayImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
+    "serverlinks" : [
+        
+	{"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""},
+	
+	{"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""},
+	
+	
+	    {"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""}
+    ],
+    "live" :1
+},
+
+{
+    "matchName" : "HelloTest Vs HelloTest",
+    "matchDate" : "Wed, September 25, 1:15 AM",
+    "homeImage" :"https://sta.vnres.co/file/common/20241005/0982b4c29826f54b441c3455e27e9f86.png",
+    "awayImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
+    "serverlinks" : [
+        
+	{"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""},
+	
+	{"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""},
+	
+	
+	    {"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""}
+    ],
+    "live" :1
+},
+
+
+{
+    "matchName" : "Hello Testing Vs HelloTest",
+    "matchDate" : "Wed, September 25, 1:15 AM",
+    "homeImage" :"https://sta.vnres.co/file/common/20241005/0982b4c29826f54b441c3455e27e9f86.png",
+    "awayImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
+    "serverlinks" : [
+        
+	{"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""},
+	
+	{"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""},
+	
+	
+	    {"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""}
+    ],
+    "live" :1
+}
+        ]
+            },
+            
+            
+            {
+                "league" : "LaLiga",
+                "leagueImage" : "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
+                "leagueMatches" : [
+                    {
+    "matchName" : "Manchester United Vs Chelsea",
+    "matchDate" : "Wed, September 25, 1:15 AM",
+    "homeImage" :"https://sta.vnres.co/file/common/20241005/0982b4c29826f54b441c3455e27e9f86.png",
+    "awayImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
+    "serverlinks" : [
+        
+	{"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""},
+	
+	{"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""},
+	
+	
+	    {"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""}
+    ],
+    "live" :0
+},
+
+{
+    "matchName" : "Manchester United Vs Chelsea",
+    "matchDate" : "Wed, September 25, 1:15 AM",
+    "homeImage" :"https://sta.vnres.co/file/common/20241005/0982b4c29826f54b441c3455e27e9f86.png",
+    "awayImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
+    "serverlinks" : [
+        
+	{"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""},
+	
+	{"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""},
+	
+	
+	    {"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""}
+    ],
+    "live" :0
+}
+        ]
+            },
+            
+            
+            {
+                "league" : "Champions League",
+                "leagueImage" : "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
+                "leagueMatches" : [
+                    {
+    "matchName" : "HelloTest Vs HelloTest",
+    "matchDate" : "Wed, September 25, 1:15 AM",
+    "homeImage" :"https://sta.vnres.co/file/common/20241005/0982b4c29826f54b441c3455e27e9f86.png",
+    "awayImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
+    "serverlinks" : [
+        
+	{"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""},
+	
+	{"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""},
+	
+	
+	    {"server" : "HD",
+	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
+	"referer" : "",
+	"userAgent" : ""}
+    ],
+    "live" :1
+}
+        ]
+            }
+            
+            ]
+    }
+}
+    
+    
+
+
+   
+
+
+
+
