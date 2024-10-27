@@ -41,8 +41,8 @@
     "serverlinks" : [
         
 	{"server" : "HD",
-	"link" : "https://obevcimanyd179569584.thapcam.link/live/cunHD/playlist.m3u8",
-	"referer" : "",
+	"link" : "https://pull.niues.live/live/stream-9912100_lhd.m3u8?auth_key=1730049087-0-0-3303d8636d880c2c824a7e884086ddd2",
+	"referer" : "https://socolive13.tv/",
 	"userAgent" : ""},
 	
 	{"server" : "HD",
