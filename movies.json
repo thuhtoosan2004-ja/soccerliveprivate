@@ -1,7 +1,11 @@
 {
 	"moviecato": [
 		"action",
-		"comedy"
+		"comedy",
+		"Bollywood",
+		"Drama",
+		"Horror",
+		"SiFi"
 	],
 	"movies": [
 		{
