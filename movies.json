@@ -9,10 +9,61 @@
 	],
 	"movies": [
 		{
-			"movieName": "",
-			"moviePoster": "",
-			"movieDesc": "",
-			"movieCateory": "",
+			"movieName": "Shameless (2011)",
+			"moviePoster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg",
+			"movieDesc": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.",
+			"movieCateory": "action",
+			"movieLink": [
+				{
+					"serverType": "HD",
+					"serverLink": ""
+				},
+				{
+					"serverType": "HD",
+					"serverLink": ""
+				}
+			]
+		},
+
+		{
+			"movieName": "Shameless (2011)",
+			"moviePoster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg",
+			"movieDesc": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.",
+			"movieCateory": "action",
+			"movieLink": [
+				{
+					"serverType": "HD",
+					"serverLink": ""
+				},
+				{
+					"serverType": "HD",
+					"serverLink": ""
+				}
+			]
+		},
+
+		{
+			"movieName": "Shameless (2011)",
+			"moviePoster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg",
+			"movieDesc": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.",
+			"movieCateory": "action",
+			"movieLink": [
+				{
+					"serverType": "HD",
+					"serverLink": ""
+				},
+				{
+					"serverType": "HD",
+					"serverLink": ""
+				}
+			]
+		},
+
+		{
+			"movieName": "The Resident (2018)",
+			"moviePoster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2IkYQJlT26yXef2iot7dhRtavSC.jpg",
+			"movieDesc": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.",
+			"movieCateory": "Bollywood",
 			"movieLink": [
 				{
 					"serverType": "HD",
