@@ -1,0 +1,24 @@
+{
+	"moviecato": [
+		"action",
+		"comedy"
+	],
+	"movies": [
+		{
+			"movieName": "",
+			"moviePoster": "",
+			"movieDesc": "",
+			"movieCateory": "",
+			"movieLink": [
+				{
+					"serverType": "HD",
+					"serverLink": ""
+				},
+				{
+					"serverType": "HD",
+					"serverLink": ""
+				}
+			]
+		}
+	]
+}
