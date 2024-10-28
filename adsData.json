@@ -1,0 +1,42 @@
+{
+	"homBannerAdlist" : [
+		{
+		  "adImage" : "",
+		  "adLink" : ""
+		}
+	],
+	
+	"liveBannerAdList" : [
+		{
+		  "adImage" : "",
+		  "adLink" : ""
+		}
+	],
+	
+	"movieBannerAdList" : [
+		{
+		  "adImage" : "",
+		  "adLink" : ""
+		}
+	],
+	
+	"channelBannerAdList" : [
+		{
+		  "adImage" : "",
+		  "adLink" : ""
+		}
+	],
+	
+	"liveExAdImage" : "",
+	"liveExAdLink" : "",
+	"highLiveExAdImage" : "",
+	"highLiveExAdLink" : "",
+	"movieExAdImage" : "",
+	"movieExAdLink" : "",
+	"appAdExImage" : "",
+	"appAdExLink" : "",
+	"appUptImage" : "",
+	"appUptLink" : "",
+	"appUptYoN" : false
+	
+}
