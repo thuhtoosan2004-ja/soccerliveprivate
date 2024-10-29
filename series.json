@@ -1,0 +1,19 @@
+{
+	"seriesCateory" : [
+		"Action","Drama","Love"
+	],
+	"seriesData" : [
+			{
+				"serieName" : "",
+				"serieImage" : "",
+				"serieStatus" : true,
+				"serieCount" : 10,
+				"episod" : [
+					{
+						"episodName" : "",
+						"serverlink" : ""
+					}
+				]
+			}
+	]
+}
