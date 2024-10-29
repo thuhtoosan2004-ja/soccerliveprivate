@@ -122,14 +122,14 @@
 				]
 			},
 			{
-				"league": "LaLiga",
-				"leagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
+				"league": "EFL Cup",
+				"leagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
 				"leagueMatches": [
 					{
-						"matchName": "Manchester United Vs Chelsea",
-						"matchDate": "Wed, September 25, 1:15 AM",
-						"homeImage": "https://sta.vnres.co/file/common/20241005/0982b4c29826f54b441c3455e27e9f86.png",
-						"awayImage": "https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
+						"matchName": "Brighton & Hove Albion Vs Liverpool",
+						"matchDate": "Thu, October 31, 2:00 AM",
+						"homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+						"awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 						"serverlinks": [
 							{
 								"server": "HD",
