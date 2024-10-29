@@ -2,7 +2,7 @@
 	"newsAdImage" : "",
 	"newsAdLink" : "",
 	"news" : [
-	{
+	{	"newsTitle" : "",
 		"newsImage" : "",
 		"newsText" : ""
 	}
