@@ -42,8 +42,18 @@
 	
 	"channelBannerAdList" : [
 		{
-		  "adImage" : "",
-		  "adLink" : ""
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+		  "adLink" : "https://t.me/ngahtoo2004"
+		},
+
+		{
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+		  "adLink" : "https://t.me/ngahtoo2004"
+		},
+
+		{
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+		  "adLink" : "https://t.me/ngahtoo2004"
 		}
 	],
 	
