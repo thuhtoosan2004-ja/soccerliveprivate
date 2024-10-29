@@ -18,7 +18,17 @@
 	
 	"liveBannerAdList" : [
 		{
-		  "adImage" : "",
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+		  "adLink" : ""
+		},
+
+		{
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
+		  "adLink" : ""
+		},
+
+		{
+		  "adImage" : "https://thuhtoosan2004-ja.github.io/images/3.png",
 		  "adLink" : ""
 		}
 	],
