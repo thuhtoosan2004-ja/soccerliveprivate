@@ -1,17 +1,131 @@
 {
 	"seriesCateory" : [
-		"Action","Drama","Love"
+		"Action","Drama","Love","Comdey"
 	],
 	"seriesData" : [
 			{
-				"serieName" : "",
-				"serieImage" : "",
+				"serieName" : "Emperor of Ocean Park",
+				"serieImage" : "https://image.tmdb.org/t/p/original/gGdN6n2IMM0Z8prdJtp22NHwNrd.jpg",
 				"serieStatus" : true,
 				"serieCount" : 10,
 				"episod" : [
 					{
-						"episodName" : "",
-						"serverlink" : ""
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					},
+
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					},
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					},
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					}
+				]
+			},
+		{
+				"serieName" : "Emperor of Ocean Park",
+				"serieImage" : "https://image.tmdb.org/t/p/original/gGdN6n2IMM0Z8prdJtp22NHwNrd.jpg",
+				"serieStatus" : true,
+				"serieCount" : 10,
+				"episod" : [
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					},
+
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					},
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					},
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					}
+				]
+			},
+		{
+				"serieName" : "Emperor of Ocean Park",
+				"serieImage" : "https://image.tmdb.org/t/p/original/gGdN6n2IMM0Z8prdJtp22NHwNrd.jpg",
+				"serieStatus" : true,
+				"serieCount" : 10,
+				"episod" : [
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					},
+
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					},
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					},
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					}
+				]
+			},
+		{
+				"serieName" : "Emperor of Ocean Park",
+				"serieImage" : "https://image.tmdb.org/t/p/original/gGdN6n2IMM0Z8prdJtp22NHwNrd.jpg",
+				"serieStatus" : true,
+				"serieCount" : 10,
+				"episod" : [
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					},
+
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					},
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					},
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					}
+				]
+			},
+		
+		{
+				"serieName" : "Emperor of Ocean Park",
+				"serieImage" : "https://image.tmdb.org/t/p/original/gGdN6n2IMM0Z8prdJtp22NHwNrd.jpg",
+				"serieStatus" : true,
+				"serieCount" : 10,
+				"episod" : [
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					},
+
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					},
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
+					},
+					{
+						"episodName" : "EP1",
+						"serverlink" : "http://www.zegomovie.com/Videos/EmperorofOceanParkS01EP01/index.m3u8"
 					}
 				]
 			}
