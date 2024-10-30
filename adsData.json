@@ -77,6 +77,10 @@
 	"appAdExLink" : "https://thuhtoosan2004-ja.github.io/images/externalads.png",
 	"appUptImage" : "",
 	"appUptLink" : "",
-	"appUptYoN" : false
+	"appUptYoN" : false,
+	"adminContact" : "",
+	"telegramChannel" : "",
+	"website" : "",
+	"facebookpage" : ""
 	
 }
