@@ -66,32 +66,40 @@
 			"channelData": [
 				{
 					"channelName": "True Premier Football 1",
-					"channelImage": "https://iili.io/HSJRAep.md.png",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",
 					"channelLink": "https://219.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8",
 					"channelReferer": "https://www.doomovie-hd.pro/",
 					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 				},
 
 				{
-					"channelName": "True Premier Football 1",
-					"channelImage": "https://iili.io/HSJRAep.md.png",
-					"channelLink": "https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8",
+					"channelName": "True Premier Football 2",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl2.png",
+					"channelLink": "https://www.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8",
 					"channelReferer": "https://www.doomovie-hd.pro/",
 					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 				},
 
 				{
-					"channelName": "True Premier Football 1",
-					"channelImage": "https://iili.io/HSJRAep.md.png",
-					"channelLink": "https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8",
+					"channelName": "True Premier Football 3",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl3.png",
+					"channelLink": "https://219.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8",
 					"channelReferer": "https://www.doomovie-hd.pro/",
 					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 				},
 
 				{
-					"channelName": "True Premier Football 1",
-					"channelImage": "https://iili.io/HSJRAep.md.png",
-					"channelLink": "https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8",
+					"channelName": "True Premier Football 4",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl4.png",
+					"channelLink": "https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "True Premier Football 5",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/doomovie-epl5.png",
+					"channelLink": "https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8",
 					"channelReferer": "https://www.doomovie-hd.pro/",
 					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 				}
