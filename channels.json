@@ -38,12 +38,12 @@
 		},
 
 		{
-			"channelCategoryName": "Sport",
+			"channelCategoryName": "Myanmar Channels",
 			"channelData": [
 				{
-					"channelName": "True Premier Football 1",
-					"channelImage": "https://iili.io/HSJRAep.md.png",
-					"channelLink": "https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8",
+					"channelName": "MRTV - 4",
+					"channelImage": "https://pbs.twimg.com/profile_images/1535482901/1-mrtv-4_400x400.jpg",
+					"channelLink": "https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8",
 					"channelReferer": "https://www.doomovie-hd.pro/",
 					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 				}
