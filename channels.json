@@ -46,6 +46,14 @@
 					"channelLink": "https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8",
 					"channelReferer": "https://www.doomovie-hd.pro/",
 					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "Channel - 7",
+					"channelImage": "https://paisleypark.com.au/wp-content/uploads/2024/05/feat1.png",
+					"channelLink": "https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 				}
 			]
 		}
