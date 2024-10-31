@@ -62,7 +62,7 @@
 			]
 		},
 		{
-			"channelCategoryName": "Sport",
+			"channelCategoryName": "Thailand Sport",
 			"channelData": [
 				{
 					"channelName": "True Premier Football 1",
@@ -116,6 +116,32 @@
 					"channelName": "Bein Sport 2 TH",
 					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/epl-bein2.png",
 					"channelLink": "https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "True Sport 1",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/hd-tsport1.png",
+					"channelLink": "https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+
+				{
+					"channelName": "True Sport 2",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/hd-tsport2.png",
+					"channelLink": "https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+
+				{
+					"channelName": "True Sport 3",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/hd-tsport3.png",
+					"channelLink": "https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
 					"channelReferer": "https://www.doomovie-hd.pro/",
 					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 				}
