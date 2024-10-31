@@ -144,6 +144,14 @@
 					"channelLink": "https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
 					"channelReferer": "https://www.doomovie-hd.pro/",
 					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "HD Tennis",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/hd-tennis.png",
+					"channelLink": "https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 				}
 			]
 		}
