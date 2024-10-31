@@ -102,6 +102,22 @@
 					"channelLink": "https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8",
 					"channelReferer": "https://www.doomovie-hd.pro/",
 					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "Bein Sport 1 TH",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/epl-bein1.png",
+					"channelLink": "https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "Bein Sport 2 TH",
+					"channelImage": "https://www.img03.xyz/assets/img/ch_logo/epl-bein2.png",
+					"channelLink": "https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 				}
 			]
 		}
