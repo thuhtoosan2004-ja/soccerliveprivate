@@ -54,6 +54,14 @@
 					"channelLink": "https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8",
 					"channelReferer": "https://www.doomovie-hd.pro/",
 					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "Mahar",
+					"channelImage": "https://maharesports.com/wp-content/uploads/2023/01/Mahar-App-Logo.png",
+					"channelLink": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 				}
 			]
 		}
