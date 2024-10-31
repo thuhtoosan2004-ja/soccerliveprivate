@@ -29,6 +29,67 @@
 	{"server" : "HD",
 	"link" : "https://vrfaa.dirgventures.net/UpFiles/2024/10/31/51/290704/0.m3u8?token=31102024103740"}
     ]
+},
+
+{
+    "matchName" : "Man United Vs Leicester",
+    "result" : "5-2",
+    "date" : "Thu, October 31, 2:15 AM",
+    "homeImage" :"https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+    "awayImage" :"https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+    "leauge" :"EFL Cup Round 4",
+    "leagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
+    "link" : [
+        
+	{"server" : "HD",
+	"link" : "https://iiyg.upfootvid.com/UpFiles/2024/10/31/51/290705/0.m3u8?token=31102024104032"}
+    ]
+},
+
+
+{
+    "matchName" : "Newcastle United Vs Chelsea",
+    "result" : "2-0",
+    "date" : "Thu, October 31, 2:15 AM",
+    "homeImage" :"https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+    "awayImage" :"https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+    "leauge" :"EFL Cup Round 4",
+    "leagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
+    "link" : [
+        
+	{"server" : "HD",
+	"link" : "https://hl.thapcam.link/hls/2light/bda/cakeo/hl/chelhl311024.mp4/playlist.m3u8"}
+    ]
+},
+
+{
+    "matchName" : "Preston North End Vs Arsenal",
+    "result" : "0-3",
+    "date" : "Thu, October 31, 2:15 AM",
+    "homeImage" :"https://images.fotmob.com/image_resources/logo/teamlogo/8411_small.png",
+    "awayImage" :"https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+    "leauge" :"EFL Cup Round 4",
+    "leagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
+    "link" : [
+        
+	{"server" : "HD",
+	"link" : "https://hl.thapcam.link/hls/2light/bda/cakeo/hl/arsenalhl311024.mp4/playlist.m3u8"}
+    ]
+},
+
+{
+    "matchName" : "Tottenham Hotspur Vs Manchester City",
+    "result" : "2-1",
+    "date" : "Thu, October 31, 2:45 AM",
+    "homeImage" :"https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+    "awayImage" :"https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+    "leauge" :"EFL Cup Round 4",
+    "leagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
+    "link" : [
+        
+	{"server" : "HD",
+	"link" : "https://hl.thapcam.link/hls/2light/bda/cakeo/hl/mchl311024.mp4/playlist.m3u8"}
+    ]
 }
 
 
