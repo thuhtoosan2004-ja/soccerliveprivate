@@ -62,6 +62,38 @@
 					"channelLink": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8",
 					"channelReferer": "https://www.doomovie-hd.pro/",
 					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "5 Plus",
+					"channelImage": "https://thuhtoosan2004-ja.github.io/images/5plus.png",
+					"channelLink": "https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "Channel K",
+					"channelImage": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Channelk.png",
+					"channelLink": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "MNTV",
+					"channelImage": "https://upload.wikimedia.org/wikipedia/en/5/54/Myanmar_National_TV_Logo.jpg",
+					"channelLink": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+				},
+
+				{
+					"channelName": "MRTV",
+					"channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mrtvchannellogo.png/220px-Mrtvchannellogo.png",
+					"channelLink": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8",
+					"channelReferer": "https://www.doomovie-hd.pro/",
+					"channelUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 				}
 			]
 		}
