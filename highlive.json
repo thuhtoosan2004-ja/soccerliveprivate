@@ -1,146 +1,33 @@
 [
 
 {
-    "matchName" : "Manchester United Vs Real Madrid",
-    "result" : "3-0",
-    "date" : "Wed, September 25, 11:15 PM",
-    "homeImage" :"https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-    "awayImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
-    "leauge" :"EFL Cup Round 3",
-    "leagueImage": "https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fleaguelogo%2F133.png&w=32&q=75",
+    "matchName" : "Brighton Vs Liverpool",
+    "result" : "2-3",
+    "date" : "Thu, October 31, 2:00 AM",
+    "homeImage" :"https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+    "awayImage" :"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+    "leauge" :"EFL Cup Round 4",
+    "leagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
     "link" : [
         
 	{"server" : "HD",
-	"link" : "https://iiyg.upfootvid.com/UpFiles/2024/10/28/51/290520/0.m3u8?token=29102024155410"},
-	
-	{"server" : "SD",
-	"link" : "https://klok.upfootvid.com/UpFiles/2024/10/5/51/288714/720p.m3u8"},
-
-	    {"server" : "FullHD",
-	"link" : "https://klok.upfootvid.com/UpFiles/2024/10/5/51/288714/720p.m3u8"},
-
-	    {"server" : "English",
-	"link" : "https://klok.upfootvid.com/UpFiles/2024/10/5/51/288714/720p.m3u8"}
+	"link" : "https://vrfaa.dirgventures.net/UpFiles/2024/10/31/51/290697/0.m3u8?token=31102024103503"}
     ]
 },
 
 
 {
-    "matchName" : "Chelsea Vs Barrow",
-    "result" : "3-0",
-    "date" : "Wed, September 25, 11:15 PM",
-    "homeImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F8455_small.png&w=48&q=75",
-    "awayImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
-    "leauge" :"EFL Cup Round 3",
-    "leagueImage": "https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fleaguelogo%2F133.png&w=32&q=75",
+    "matchName" : "Aston Villa Vs Crystal Palace",
+    "result" : "1-2",
+    "date" : "Thu, October 31, 2:15 AM",
+    "homeImage" :"https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+    "awayImage" :"https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+    "leauge" :"EFL Cup Round 4",
+    "leagueImage": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
     "link" : [
         
 	{"server" : "HD",
-	"link" : "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1727179284-0-0-03b27dd3c4e876cd7e055dcfa9fb2cfe"},
-	
-	{"server" : "SD",
-	"link" : "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1727179284-0-0-97a3edf3af0587738142ba1d32b74892"},
-
-	    {"server" : "FullHD",
-	"link" : "https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001727196177-0-0-b30562bb71d1bd06e318398ad5ffe2a3"},
-
-	    {"server" : "English",
-	"link" : "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1727179344-0-0-63dd43a89cf77935a1fdd783a593fbd0"}
-    ]
-},
-
-{
-    "matchName" : "Chelsea Vs Barrow",
-    "result" : "3-0",
-    "date" : "Wed, September 25, 11:15 PM",
-    "homeImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F8455_small.png&w=48&q=75",
-    "awayImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
-    "leauge" :"EFL Cup Round 3",
-    "leagueImage": "https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fleaguelogo%2F133.png&w=32&q=75",
-    "link" : [
-        
-	{"server" : "HD",
-	"link" : "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1727179284-0-0-03b27dd3c4e876cd7e055dcfa9fb2cfe"},
-	
-	{"server" : "SD",
-	"link" : "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1727179284-0-0-97a3edf3af0587738142ba1d32b74892"},
-
-	    {"server" : "FullHD",
-	"link" : "https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001727196177-0-0-b30562bb71d1bd06e318398ad5ffe2a3"},
-
-	    {"server" : "English",
-	"link" : "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1727179344-0-0-63dd43a89cf77935a1fdd783a593fbd0"}
-    ]
-},
-	{
-    "matchName" : "Chelsea Vs Barrow",
-    "result" : "3-0",
-    "date" : "Wed, September 25, 11:15 PM",
-    "homeImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F8455_small.png&w=48&q=75",
-    "awayImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
-    "leauge" :"EFL Cup Round 3",
-    "leagueImage": "https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fleaguelogo%2F133.png&w=32&q=75",
-    "link" : [
-        
-	{"server" : "HD",
-	"link" : "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1727179284-0-0-03b27dd3c4e876cd7e055dcfa9fb2cfe"},
-	
-	{"server" : "SD",
-	"link" : "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1727179284-0-0-97a3edf3af0587738142ba1d32b74892"},
-
-	    {"server" : "FullHD",
-	"link" : "https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001727196177-0-0-b30562bb71d1bd06e318398ad5ffe2a3"},
-
-	    {"server" : "English",
-	"link" : "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1727179344-0-0-63dd43a89cf77935a1fdd783a593fbd0"}
-    ]
-},
-
-	{
-    "matchName" : "Chelsea Vs Barrow",
-    "result" : "3-0",
-    "date" : "Wed, September 25, 11:15 PM",
-    "homeImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F8455_small.png&w=48&q=75",
-    "awayImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
-    "leauge" :"EFL Cup Round 3",
-    "leagueImage": "https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fleaguelogo%2F133.png&w=32&q=75",
-    "link" : [
-        
-	{"server" : "HD",
-	"link" : "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1727179284-0-0-03b27dd3c4e876cd7e055dcfa9fb2cfe"},
-	
-	{"server" : "SD",
-	"link" : "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1727179284-0-0-97a3edf3af0587738142ba1d32b74892"},
-
-	    {"server" : "FullHD",
-	"link" : "https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001727196177-0-0-b30562bb71d1bd06e318398ad5ffe2a3"},
-
-	    {"server" : "English",
-	"link" : "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1727179344-0-0-63dd43a89cf77935a1fdd783a593fbd0"}
-    ]
-},
-
-	{
-    "matchName" : "Chelsea Vs Barrow",
-    "result" : "3-0",
-    "date" : "Wed, September 25, 11:15 PM",
-    "homeImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F8455_small.png&w=48&q=75",
-    "awayImage" :"https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fteamlogo%2F6350_small.png&w=48&q=75",
-    "leauge" :"EFL Cup Round 3",
-    "leagueImage": "https://www.fotmob.com/_next/image?url=https%3A%2F%2Fimages.fotmob.com%2Fimage_resources%2Flogo%2Fleaguelogo%2F133.png&w=32&q=75",
-    "link" : [
-        
-	{"server" : "HD",
-	"link" : "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1727179284-0-0-03b27dd3c4e876cd7e055dcfa9fb2cfe"},
-	
-	{"server" : "SD",
-	"link" : "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1727179284-0-0-97a3edf3af0587738142ba1d32b74892"},
-
-	    {"server" : "FullHD",
-	"link" : "https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001727196177-0-0-b30562bb71d1bd06e318398ad5ffe2a3"},
-
-	    {"server" : "English",
-	"link" : "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1727179344-0-0-63dd43a89cf77935a1fdd783a593fbd0"}
+	"link" : "https://vrfaa.dirgventures.net/UpFiles/2024/10/31/51/290704/0.m3u8?token=31102024103740"}
     ]
 }
 
